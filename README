@@ -12,12 +12,12 @@ about being this moron's friend..
 -------------
 Compile the codebase by standard method, ./configure , then make to build the
 game binary.
-Play the game by typing ./crazymobils or type sudo make install to install the
-game systemwide and run the game by simply typing crazymobils.
+Play the game by typing ./jumpingmoron or type sudo make install to install the
+game systemwide and run the game by simply typing jumpingmoron 
 
 2. REQUIREMENTS
 ---------------
-crazymobils should be able to compile and run on linux and FreeBsd atleast.
+jumpingmoron should be able to compile and run on linux and FreeBsd atleast.
 
 3. CONTROL KEYS
 ---------------
